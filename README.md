@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 My name is **Fadilla Rahim**.\
-Now i am a student majoring in informatics technical at Jakarta State of Polytechnic.\
-I have an interest in web development(especially on Back-end). and currently learning HTML, CSS, JavaScript, NodeJS, ReactJS, MySQL, Laravel and others.\
-if you are interest in getting to know me, Please follow my 
-[Linkedin](https://www.linkedin.com/in/fadilla-rahim-96034621b/) account.\
+I am an undergraduate Informatics Engineering student. I Have an interest in Web development and Machine Learning.\
+I have experience working with various programming languages such as **JavaScript** and **Python**, as well as frameworks and libraries including **React.js** and **TensorFlow**.\
+
+If you are interest in getting to know me, Please follow my 
+[Linkedin](https://www.linkedin.com/in/fadilla-rahim-96034621b/) account 👯
 
 
 <p align="left">
