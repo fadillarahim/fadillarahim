@@ -2,7 +2,8 @@
 
 My name is **Fadilla Rahim**.\
 I am an undergraduate Informatics Engineering student. I Have an interest in Web development and Machine Learning.\
-I have experience working with various programming languages such as **JavaScript** and **Python**, as well as frameworks and libraries including **React.js** and **TensorFlow**.\
+I have experience working with various programming languages such as **JavaScript** and **Python**\
+as well as frameworks and libraries including **React.js** and **TensorFlow**.
 
 If you are interest in getting to know me, Please follow my 
 [Linkedin](https://www.linkedin.com/in/fadilla-rahim-96034621b/) account 👯
