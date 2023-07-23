@@ -11,7 +11,7 @@ If you are interest in getting to know me, Please follow my
 
 <p align="left">
 <a href="https://github.com/fadillarahim">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=fadillarahim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadillarahim&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
