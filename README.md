@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is **Fadilla Rahim**.\
-I am an undergraduate Informatics Engineering student. I Have an interest in Web development and Machine Learning.\
+I am an undergraduate Informatics Engineering student. Interest in Web development, Machine Learning, and Data.\
 I have experience working with various programming languages such as **JavaScript** and **Python**\
 as well as frameworks and libraries including **React.js** and **TensorFlow**.
 
