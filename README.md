@@ -8,7 +8,7 @@
 I’m a motivated learner and detail-oriented developer with **1 year of professional experience** in **Software Engineering** and **Web & App Development**. With a knack for **logical thinking** and **problem-solving**, I’m always on the lookout for innovative ways to expand my skills, especially in **JavaScript frameworks** (React.js, React Native, Express.js) and **Machine Learning**.
 
 - **Languages & Tools**:  
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat" /> <img src="https://img.shields.io/badge/-React-blue?style=flat" /> <img src="https://img.shields.io/badge/-Express.js-green?style=flat" /> <img src="https://img.shields.io/badge/-React_Native-purple?style=flat" /> <img src="https://img.shields.io/badge/-Python-orange?style=flat" /> <img src="https://img.shields.io/badge/-Flask-black?style=flat" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat" /> <img src="https://img.shields.io/badge/-React-blue?style=flat" /> <img src="https://img.shields.io/badge/-Express.js-green?style=flat" /> <img src="https://img.shields.io/badge/-React_Native-purple?style=flat" /> <img src="https://img.shields.io/badge/-Python-orange?style=flat" /> <img src="https://img.shields.io/badge/-Flask-black?style=flat" /> <img src="https://img.shields.io/badge/-Prisma-blueviolet?style=flat" />
 
 - **Areas of Interest**:  
   <img src="https://img.shields.io/badge/-Web_Development-blue" /> <img src="https://img.shields.io/badge/-Machine_Learning-green" /> <img src="https://img.shields.io/badge/-UI/UX_Design-purple" /> <img src="https://img.shields.io/badge/-Database_Design-yellow" />
