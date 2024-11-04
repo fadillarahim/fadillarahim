@@ -17,13 +17,13 @@ I’m a motivated learner and detail-oriented developer with **1 year of profess
 
 ### 📈 What I Bring to the Table
 - **Systems Design**: Experienced in **requirements analysis**, **UI/UX**, and **database architecture**
-- **Web & App Development**: Skilled in **JavaScript frameworks** like React, Express.js, and **React Native**
+- **Web & App Development**: Skilled in JavaScript frameworks like **React**, **Express.js**, and **React Native**
 - **Machine Learning**: Specialization in **Natural Language Processing (NLP)**, and hands-on experience with **Python**, **Flask**, **Kotlin**, and **Visual Basic**
 
 ---
 
 ### 🛠 Currently Exploring
-I’m currently diving deeper into **Next.js** and further honing my machine learning skills in NLP projects. I enjoy working with **new technologies** and am always open to new challenges!
+I’m currently diving deeper into **web development** and further honing my machine learning skills in NLP projects. I enjoy working with **new technologies** and am always open to new challenges!
 
 ---
 
